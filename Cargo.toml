@@ -1,0 +1,9 @@
+[package]
+name = "pgsql_export_panel"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.97"
+eframe = "0.31.1"
+tokio-postgres = "0.7.13"

@@ -1,3 +1,5 @@
+mod pgdb;
+
 use eframe::egui;
 
 struct DbInfo {

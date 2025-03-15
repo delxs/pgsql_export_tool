@@ -1,7 +1,7 @@
 # pgsql_exporter
 
 ## 项目简介
-`pgsql_exporter` 是一个用于从 PostgreSQL 数据库中导出INSERT SQL 脚本的工具，支持整表导出和自定义语句导出。小小小项目(
+`pgsql_exporter` 是一个用于从 PostgreSQL 数据库中导出INSERT SQL 脚本的工具，支持整表导出和自定义语句导出。简单练手项目(
 
 ## 实现中的特性
 - **数据导出**: 支持从 PostgreSQL 数据库中自定义查询和整表导出。导出 SQL 插入语句脚本。
